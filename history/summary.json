@@ -4,53 +4,59 @@
     "url": "https://www.ao.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ao.com.ico",
     "slug": "ao-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 684,
-    "timeWeek": 592,
-    "timeMonth": 542,
-    "timeYear": 507,
-    "dailyMinutesDown": {}
+    "time": 506,
+    "timeDay": 529,
+    "timeWeek": 564,
+    "timeMonth": 537,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   },
   {
     "name": "ao-business.com",
     "url": "https://www.ao-business.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ao-business.com.ico",
     "slug": "ao-business-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 332,
-    "timeWeek": 336,
-    "timeMonth": 396,
-    "timeYear": 420,
-    "dailyMinutesDown": {}
+    "time": 418,
+    "timeDay": 301,
+    "timeWeek": 328,
+    "timeMonth": 392,
+    "timeYear": 418,
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   },
   {
     "name": "Boots Kitchen Appliances",
     "url": "https://www.bootskitchenappliances.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bootskitchenappliances.com.ico",
     "slug": "boots-kitchen-appliances",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 441,
-    "timeWeek": 434,
-    "timeMonth": 465,
-    "timeYear": 452,
-    "dailyMinutesDown": {}
+    "time": 450,
+    "timeDay": 344,
+    "timeWeek": 411,
+    "timeMonth": 459,
+    "timeYear": 450,
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   }
 ]
